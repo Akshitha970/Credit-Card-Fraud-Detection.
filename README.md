@@ -3,11 +3,6 @@
 ## 📌 Project Overview
 This project focuses on detecting fraudulent credit card transactions using Machine Learning algorithms. The system analyzes transaction patterns and classifies transactions as genuine or fraudulent to help reduce financial fraud risks.
 
-<img width="636" height="486" alt="Screenshot 2026-05-19 103815" src="https://github.com/user-attachments/assets/50dba04f-5c31-459c-bef0-459aee594f7a" />
-<img width="1091" height="672" alt="Top 10 Important Features Screenshot" src="https://github.com/user-attachments/assets/f0372c33-79c3-402f-8863-33cce5673f2c" />
-<img width="732" height="551" alt="Random Forest Confusion MatrixScreenshot" src="https://github.com/user-attachments/assets/e0f23081-3ae5-4627-9030-a9f60dafea2b" />
-
-
 ---
 
 ## 🎯 Objective
@@ -89,6 +84,11 @@ The model predicts whether a transaction is:
 - Banking Dashboard Integration
 
 ---
+
+<img width="636" height="486" alt="Screenshot 2026-05-19 103815" src="https://github.com/user-attachments/assets/50dba04f-5c31-459c-bef0-459aee594f7a" />
+<img width="1091" height="672" alt="Top 10 Important Features Screenshot" src="https://github.com/user-attachments/assets/f0372c33-79c3-402f-8863-33cce5673f2c" />
+<img width="732" height="551" alt="Random Forest Confusion MatrixScreenshot" src="https://github.com/user-attachments/assets/e0f23081-3ae5-4627-9030-a9f60dafea2b" />
+
 
 ## 👩‍💻 Author
 Akshitha Gurram
