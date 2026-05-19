@@ -84,9 +84,15 @@ The model predicts whether a transaction is:
 - Banking Dashboard Integration
 
 ---
-
+### 🔹 Model Accuracy Results
+The model achieved high prediction accuracy using Logistic Regression and Random Forest algorithms.
 <img width="636" height="486" alt="Screenshot 2026-05-19 103815" src="https://github.com/user-attachments/assets/50dba04f-5c31-459c-bef0-459aee594f7a" />
+
+### 🔹 Feature Importance Analysis
+This graph highlights the most important features influencing fraud transaction prediction.
 <img width="1091" height="672" alt="Top 10 Important Features Screenshot" src="https://github.com/user-attachments/assets/f0372c33-79c3-402f-8863-33cce5673f2c" />
+### 🔹 Confusion Matrix
+The confusion matrix helps evaluate the performance of the fraud detection model by comparing actual and predicted values.
 <img width="732" height="551" alt="Random Forest Confusion MatrixScreenshot" src="https://github.com/user-attachments/assets/e0f23081-3ae5-4627-9030-a9f60dafea2b" />
 
 
