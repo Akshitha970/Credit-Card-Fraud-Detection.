@@ -1,0 +1,19 @@
+## 📂 Dataset Information
+
+The dataset used for this project is publicly available on Kaggle.
+
+### Dataset Link
+[Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+### Dataset Description
+The dataset contains anonymized credit card transactions made by European cardholders. It includes both genuine and fraudulent transactions for Machine Learning-based fraud detection analysis.
+
+### Dataset Features
+- 284,807 transaction records
+- Fraud and genuine transaction classification
+- Features: V1 to V28, Time, Amount, and Class
+- Target Variable:
+  - `0` → Genuine Transaction
+  - `1` → Fraudulent Transaction
+
+> Note: The dataset is not uploaded to this repository due to GitHub file size limitations. Please download the dataset directly from Kaggle using the link above.
