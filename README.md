@@ -58,6 +58,47 @@ The model predicts whether a transaction is:
 
 ---
 
+## 📷 Project Screenshots
+
+### 🔹 Random Forest Confusion Matrix
+The confusion matrix below represents the performance of the Random Forest model in classifying genuine and fraudulent transactions. The model achieved high fraud detection accuracy with very few false predictions.
+
+<img width="732" height="551" alt="Random Forest Confusion MatrixScreenshot" src="https://github.com/user-attachments/assets/b1932f48-2d01-4915-aa8e-0282554969f0" /> 
+
+---
+
+### 🔹 Logistic Regression Confusion Matrix
+This confusion matrix shows the classification results of the Logistic Regression model for fraud transaction prediction and model evaluation.
+
+<img width="717" height="561" alt="Logistic Regression Confusion Matrix Screenshot" src="https://github.com/user-attachments/assets/57e5c039-eb62-4a46-9505-00072870d412" />
+
+---
+
+### 🔹 Top 10 Important Features
+The feature importance graph highlights the most influential variables used in fraud detection. Features such as V17, V12, and V14 played a significant role in identifying suspicious transactions.
+
+<img width="1091" height="672" alt="Top 10 Important Features Screenshot" src="https://github.com/user-attachments/assets/6cc7a8c2-4ff1-49f2-810c-021b5daf13fa" />
+
+---
+
+## 📊 Model Performance
+
+| Model | Accuracy |
+|---|---|
+| Logistic Regression | 99.92% |
+| Random Forest | 99.96% |
+
+### ROC-AUC Score
+0.9132
+
+---
+
+## 🔍 Key Insights
+- Random Forest outperformed Logistic Regression in fraud classification.
+- The model successfully identified fraudulent transactions with minimal false positives.
+- Feature importance analysis helped determine the most critical transaction variables for fraud detection.
+- The project demonstrates the practical use of Machine Learning in banking fraud analytics and financial risk management.
+
 ## 📂 Project Workflow
 1. Data Collection
 2. Data Preprocessing
@@ -84,17 +125,6 @@ The model predicts whether a transaction is:
 - Banking Dashboard Integration
 
 ---
-### 🔹 Model Accuracy Results
-The model achieved high prediction accuracy using Logistic Regression and Random Forest algorithms.
-<img width="636" height="486" alt="Screenshot 2026-05-19 103815" src="https://github.com/user-attachments/assets/50dba04f-5c31-459c-bef0-459aee594f7a" />
-
-### 🔹 Feature Importance Analysis
-This graph highlights the most important features influencing fraud transaction prediction.
-<img width="1091" height="672" alt="Top 10 Important Features Screenshot" src="https://github.com/user-attachments/assets/f0372c33-79c3-402f-8863-33cce5673f2c" />
-### 🔹 Confusion Matrix
-The confusion matrix helps evaluate the performance of the fraud detection model by comparing actual and predicted values.
-<img width="732" height="551" alt="Random Forest Confusion MatrixScreenshot" src="https://github.com/user-attachments/assets/e0f23081-3ae5-4627-9030-a9f60dafea2b" />
-
 
 ## 👩‍💻 Author
 Akshitha Gurram
@@ -104,4 +134,4 @@ Aspiring Data Analyst | Data Science Enthusiast
 ---
 
 ## ⭐ Conclusion
-This project demonstrates the practical implementation of Machine Learning techniques for solving real-world banking fraud detection problems using predictive analytics and classification models.
+This project demonstrates the practical implementation of Machine Learning techniques for detecting fraudulent credit card transactions using predictive analytics and classification models. The model successfully classifies transactions as genuine or fraudulent based on transaction patterns and helps improve fraud detection analysis.
